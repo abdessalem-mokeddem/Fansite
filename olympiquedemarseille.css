@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.centre{
+    text-align: center;
+    align-items: center;
+}
+
+img {
+    width: 50%;
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+     background-color:rgb(0, 128, 255);
+}
+
+.liens{
+    display: inline-block;
+     background-color: whitesmoke;
+     border-radius: 5px;
+     border: 4px double darkorange;
+     color: darkgoldenrod;
+     text-align: center;
+     font-size: 5px;
+     padding: 5px;
+     width: 200px;
+     -webkit-transition: all 0.5s;
+     -moz-transition: all 0.5s;
+     -o-transition: all 0.5s;
+     transition: all 0.5s;
+     cursor: pointer;
+     margin: 5px;
+    
+    
+ 
+
+
+
+
+
+
+
+
