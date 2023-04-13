@@ -1,0 +1,49 @@
+/* Style de base pour le corps de la page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style pour le titre principal */
+  h1 {
+    text-align: center;
+    background-color: #0055a4;
+    color: white;
+    padding: 1em;
+    margin: 0;
+  }
+  
+  /* Style pour les titres de section */
+  h2 {
+    font-size: 1.2em;
+    margin: 1em 0 0.5em;
+  }
+  
+  /* Style pour la carte Google Maps */
+  #map {
+    height: 400px;
+    margin: 1em 0;
+  }
+  
+  /* Style pour les informations de contact */
+  p {
+    margin: 0.5em 0;
+  }
+  
+  /* Style pour les liens */
+  a {
+    color: #0055a4;
+    text-decoration: none;
+    padding: 0.5em;
+    margin-right: 1em;
+    border: 2px solid #0055a4;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  a:hover {
+    background-color: #0055a4;
+    color: white;
+  }
+  

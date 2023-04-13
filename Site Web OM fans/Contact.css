@@ -1,0 +1,85 @@
+/* styles généraux */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  /* styles pour la carte */
+  #map {
+    height: 400px;
+    width: 100%;
+  }
+  
+  /* styles pour les liens */
+  .bouton_liens {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .bouton_liens a {
+    display: block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #005cbf;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+  }
+  
+  .bouton_liens a:hover {
+    background-color: #00479d;
+  }
+  
+  /* styles pour le logo de l'OM */
+  .logo_om {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+  }
+  
+  /* styles pour les titres */
+  h1 {
+    font-size: 2em;
+    margin-top: 50px;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: 30px;
+  }
+  
+  /* styles pour les informations de contact */
+  p {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  /* styles pour le pied de page */
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  /* styles pour le lien du pied de page */
+  footer a {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  footer a:hover {
+    color: #ccc;
+  }
+  
